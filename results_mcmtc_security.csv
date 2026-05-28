@@ -1,0 +1,2 @@
+scheduler_id,scheduler_name,attack_type,ue_count,bandwidth_MHz,dlDataSymbolsFpattern,mu,pktBytes,avg_ms,min_ms,max_ms,count
+0,TDMA,baseline-load,15,10,1,1,10,0.176,0.000,0.564,29550
