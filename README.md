@@ -1,6 +1,6 @@
-# MC-MTC Artifacts
+# MC-MTC Long Paper and  Artifacts
 
-This repository contains the artifacts for the MC-MTC evaluation based on 5G-LENA (ns-3 NR).
+This repository contains the extended version of our paper (long_version_of_paper.pdf) and the artifacts for the MC-MTC evaluation based on 5G-LENA (ns-3 NR).
 
 ## Overview
 
