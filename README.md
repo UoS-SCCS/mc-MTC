@@ -1,17 +1,17 @@
-# MC-MTC Artifact
+# MC-MTC Artifacts
 
-This repository contains the artifact for the MC-MTC evaluation based on 5G-LENA (ns-3 NR).
+This repository contains the artifacts for the MC-MTC evaluation based on 5G-LENA (ns-3 NR).
 
 ## Overview
 
-This artifact provides:
+These artifacts provide:
 
 - MC-MTC simulation scenarios (ns-3 scratch programs)
 - Execution scripts for parameter sweeps
 - Post-processing utilities
 - Scripts to reproduce the reported CSV results
 
-The artifact is designed to be reproducible starting from a clean 5G-LENA installation.
+The artifacts are designed to be reproducible starting from a clean 5G-LENA installation.
 
 ---
 
